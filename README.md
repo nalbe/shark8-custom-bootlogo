@@ -1,4 +1,4 @@
-# shark8-bootlogo
+# shark8-custom-bootlogo
 
 <p align="center">
   <img src="custom/artwork.png" alt="Boot logo preview" width="320">
