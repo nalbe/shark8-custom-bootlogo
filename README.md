@@ -36,7 +36,7 @@ stock Blackview splash with a paint stripe over it and the Google wordmark below
 | Item | Value |
 |---|---|
 | Device | Blackview Shark 8 (SHARK8RU0006472), MTK Helio G85 |
-| ROM | AOSP GSI Android 13 TP1A.220624.014 on stock vendor |
+| ROM | AOSP GSI Android 14 (AP2A.240805.005.F1) on stock vendor |
 | Logo partition | `/dev/block/by-name/logo` -> `/dev/block/mmcblk0p41` |
 | Partition size | 27,262,976 bytes (26 MiB) |
 | Header | 512 bytes, ASCII `logo` at offset 0x08 |
