@@ -1,5 +1,9 @@
 # shark8-bootlogo
 
+<p align="center">
+  <img src="custom/artwork.png" alt="Boot logo preview" width="320">
+</p>
+
 > **[!] DO NOT FLASH `shark8-bootlogo-flashable.zip` BLINDLY IF YOU ARE NOT
 > USING A BLACKVIEW SHARK 8.** This image was built from **this device's
 > stock logo partition** and will produce garbage or stall the bootloader on
